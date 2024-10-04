@@ -1,0 +1,45 @@
+.centro {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background-color: tan;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvAfXW26LUiLAwsksb6xVA6Ge29mjgbhIjQ&s);
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.ima {
+    background-color: aliceblue;
+    border-radius:25px;
+}
+main {
+    background-color: aliceblue;
+    border-radius:25px;
+}
+#inicio {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#productos{
+    text-align: center;
+}
+#servicios {
+    text-align: center;
+}
+#contactos {
+    text-align: center;
+}
+nav{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
